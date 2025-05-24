@@ -2,10 +2,7 @@
 
 EPS 130 - Strong Motion Seismology - Doug Dreger - Spring 2023
 
- [![Datahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=EPS-130-21521-SP23&branch=main&path=)
+Open this repository  [![Datahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FEPS130-21521-SP23&urlpath=tree%2FEPS130-21521-SP23%2F)
 
- [![Datahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=EPS-130-21521-SP23&branch=main&path=)
- 
-[![Datahub](https://img.shields.io/badge/Launch-UCB%20Datahub%20PS1-blue.svg)](http://datahub.berkeley.edu/user-redirect/interact?account=ds-modules&repo=EPS-130-21521-SP23&branch=main&path=EPS_Homework1/eps130_hw1_gutenberg_richter_v3.0.ipynb)
+Homework 1 [![Datahub](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FEPS130-21521-SP23&branch=main&urlpath=tree%2FEPS130-21521-SP23%2FEPS130_Homework1%2Feps130_hw1_gutenberg_richter_v3.0.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-modules/EPS-130-21521p-SP23/main)
